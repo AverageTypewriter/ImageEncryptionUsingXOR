@@ -1,0 +1,4 @@
+Pillow
+pycryptodome
+numpy
+cryptography
